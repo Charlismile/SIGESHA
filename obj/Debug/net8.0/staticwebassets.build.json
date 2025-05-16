@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1jXAl4lVNIAI4ezHURKDVx59FPsrSkxqWnJl1DPIhLY=",
+  "Hash": "+P0vAr6Vw6GVlh3B2TebMV8cfyTqbnDLmkRr+P6cTwE=",
   "Source": "SIGESHA",
   "BasePath": "_content/SIGESHA",
   "Mode": "Default",
@@ -131,6 +131,44 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
+      "Identity": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\logo-gob.png",
+      "SourceId": "SIGESHA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\",
+      "BasePath": "_content/SIGESHA",
+      "RelativePath": "logo-gob.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo-gob.png"
+    },
+    {
+      "Identity": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\logo-minsa.png",
+      "SourceId": "SIGESHA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\",
+      "BasePath": "_content/SIGESHA",
+      "RelativePath": "logo-minsa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo-minsa.png"
+    },
+    {
       "Identity": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\perfil.png",
       "SourceId": "SIGESHA",
       "SourceType": "Discovered",
@@ -148,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\perfil.png"
+    },
+    {
+      "Identity": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\recursos.txt",
+      "SourceId": "SIGESHA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\",
+      "BasePath": "_content/SIGESHA",
+      "RelativePath": "recursos.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\recursos.txt"
     }
   ]
 }

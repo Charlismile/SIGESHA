@@ -21,8 +21,20 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\logo-gob.png",
+      "PackagePath": "staticwebassets\\logo-gob.png"
+    },
+    {
+      "Id": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\logo-minsa.png",
+      "PackagePath": "staticwebassets\\logo-minsa.png"
+    },
+    {
       "Id": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\perfil.png",
       "PackagePath": "staticwebassets\\perfil.png"
+    },
+    {
+      "Id": "C:\\Users\\cabernalo\\RiderProjects\\SIGESHA\\SIGESHA\\wwwroot\\recursos.txt",
+      "PackagePath": "staticwebassets\\recursos.txt"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SIGESHA.Microsoft.AspNetCore.StaticWebAssets.props",
