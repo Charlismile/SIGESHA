@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SIGESHA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+019f6bf4a273c7974eaa73fff796bb2339ec0a65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdec52b9be74a704108662237c1d860b8cc5e299")]
 [assembly: System.Reflection.AssemblyProductAttribute("SIGESHA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SIGESHA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
